@@ -1,16 +1,9 @@
-# chess_game
+Developed a fully functional chess game using Flutter and Dart. The game supports both single-player and two-player modes. It also includes a feature to track captured pieces for better game analysis.
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/chess1.png" width="300" />
+  <img src="assets/chess2.png" width="300" />
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
